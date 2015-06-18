@@ -1,3 +1,16 @@
+## Layout - Surf and Paddle - Week 1 Final Assignment
+
+### What I did
+
+At the end of every week at the Iron Yard, we are given a more complex assignment than we were given during the week. 
+
+During the first week, we reviewed HTML and CSS, so the "final" was a large-scale PSD to HTML conversion. Utilizing Chrome's dev tools, Sip (a color picking app) and Google Fonts, we were tasked with creating a pixel-perfect functioning page (writing both the HTML and the CSS) from the mockup provided.
+
+The original description is provided below.
+
+
+
+
 ## Layout - Surf and Paddle
 
 ### Description
